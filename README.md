@@ -1,11 +1,11 @@
 # Samuel George (He/Him)
 
-**Cybersecurity Analyst | SOC & Incident Responder | Web & AI Developer**
+**Cybersecurity Analyst | SOC & Incident Responder | Technical Support Engineer | System Administrator | Web Developer**  
 
 ---
 
 ## About Me  
-I'm focused on strengthening infrastructure resilience through proactive security operations, incident response, and educating others in cybersecurity. As the founder of CyberAware Initiative, I’ve helped over 50 SMEs improve their cybersecurity posture. My experience spans SOC monitoring, threat detection, remediation, and integrating AI/Web elements into security workflows.
+I'm focused on strengthening infrastructure resilience through proactive security operations, incident response, server configuration and educating others in cybersecurity. As the founder of CyberAware Initiative, I’ve helped over 50 SMEs improve their cybersecurity posture. My experience spans SOC monitoring, threat detection, remediation, and integrating AI/Web elements into security workflows.
 
 ---
 
